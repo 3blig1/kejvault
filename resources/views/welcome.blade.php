@@ -24,7 +24,7 @@
                 <div class="hero-actions"><a class="button button-primary large" href="#demo">Start trading securely <span>-&gt;</span></a><a class="button button-ghost large" href="#how">How KEJVAULT works</a></div>
                 <div class="flow"><div><span class="flow-icon">B</span><small>BUYER</small></div><b>-&gt;</b><div class="secure"><span>K</span><small>KEJVAULT</small></div><b>-&gt;</b><div><span class="flow-icon">S</span><small>SELLER</small></div></div>
             </div>
-            <div class="phone-wrap"><div class="phone-glow"></div><div class="phone"><div class="phone-head"><strong>KEJVAULT</strong><span class="ok">OK</span></div><small class="muted">Available balance</small><div class="balance">1,250,000 <small>XOF</small></div><small class="muted caps">Demo data</small><div class="mini-stats"><div><small>Protected</small><strong>8 deals</strong></div><div><small>Pending release</small><strong>245,000</strong></div></div><div class="activity"><div><i>K</i><span><strong>500,000 XOF</strong><small>Payment secured</small></span><b>&gt;</b></div><div><i>B</i><span><strong>120,000 XOF</strong><small>Purchase</small></span><b>&gt;</b></div><div><i>+</i><span><strong>250,000 XOF</strong><small>Payment released</small></span><b>&gt;</b></div></div></div></div>
+            <div class="phone-wrap"><img class="phone-reference" src="{{ asset('phone.png') }}" alt="KEJVAULT wallet showing a protected balance and recent transactions"></div>
         </div>
     </section>
 
